@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SonGiangH
-- 👀 I’m interested in ..backend dev, app dev .
-- 🌱 I’m currently learning .Java..
+- 👀 I’m interested in ..backend dev, react JS app dev .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
