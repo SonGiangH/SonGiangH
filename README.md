@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @SonGiangH
-- 👀 I’m interested in ..backend dev, react JS app dev .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## <p align="center">:wave: Hi, I'm Robert Giang</p>
+## <p align="center">	:writing_hand: I 'm a developer, looking for opportunities and challenges to upgrade my skills and create useful solutions for the good things.:+1:
+:thumbsup:</p>
 
-<!---
-SonGiangH/SonGiangH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# :mailbox_closed: How to reach me:
+- LinkedIn: https://www.linkedin.com/in/songiang/
+- Email: giangson1311@gmail.com
+
+# Skills
+![techlogo](https://user-images.githubusercontent.com/87811575/189519472-ac8fecc5-fa5f-4e5d-a83a-847e6ce285a8.PNG)
