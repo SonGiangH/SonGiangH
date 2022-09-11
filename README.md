@@ -1,6 +1,5 @@
 ## <p align="center">:wave: Hi, I'm Robert Giang</p>
-## <p align="center">	:writing_hand: I 'm a developer, looking for opportunities and challenges to upgrade my skills and create useful solutions for the good things.:+1:
-:thumbsup:</p>
+## <p align="center">	:writing_hand: I 'm a developer, looking for opportunities and challenges to upgrade my skills and create useful solutions for the good things</p>
 
 
 # :mailbox_closed: How to reach me:
