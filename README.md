@@ -4,7 +4,7 @@
 
 # :mailbox_closed: How to reach me:
 - LinkedIn: https://www.linkedin.com/in/songiang/
-- Email: giangson1311@gmail.com
+- Email: robert.giangs@gmail.com
 
 # Skills
 ![techlogo](https://user-images.githubusercontent.com/87811575/189519472-ac8fecc5-fa5f-4e5d-a83a-847e6ce285a8.PNG)
